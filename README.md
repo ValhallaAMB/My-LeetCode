@@ -12,6 +12,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0012-integer-to-roman) |
+| [1806-count-of-matches-in-tournament](https://github.com/ValhallaAMB/My-LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ValhallaAMB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/ValhallaAMB/My-LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
