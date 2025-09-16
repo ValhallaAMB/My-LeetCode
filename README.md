@@ -6,12 +6,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0012-integer-to-roman) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/ValhallaAMB/My-LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ValhallaAMB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0012-integer-to-roman) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/ValhallaAMB/My-LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1806-count-of-matches-in-tournament](https://github.com/ValhallaAMB/My-LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
