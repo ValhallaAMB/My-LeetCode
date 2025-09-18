@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/ValhallaAMB/My-LeetCode/tree/master/0012-integer-to-roman) |
+| [2887-sort-vowels-in-a-string](https://github.com/ValhallaAMB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ValhallaAMB/My-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -55,5 +56,6 @@
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/ValhallaAMB/My-LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3430-count-days-without-meetings](https://github.com/ValhallaAMB/My-LeetCode/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
